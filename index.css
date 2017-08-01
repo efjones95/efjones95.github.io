@@ -1,1 +1,8 @@
 body {background: url("https://www.walldevil.com/wallpapers/a77/mountain-cave-gate-bridge-ice-snow.jpg") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
+
+.butt {
+background: d2d8d8;
+border: 1px solid #000;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
